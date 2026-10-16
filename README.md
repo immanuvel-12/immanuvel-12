@@ -64,10 +64,9 @@ A MERN-stack e-commerce project for garments, designed to support customer and a
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [github.com/Imman701](https://github.com/Imman701)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Portfolio:** Add your portfolio URL here, if available.
-- **Email:** Add your professional email address here.
+- **GitHub:** [github.com/immanuvel-12](https://github.com/immanuvel-12)
+- **LinkedIn:** (https://www.linkedin.com/in/immanuvel-dev/)
+- **Email:** immanuvel.dev@gmail.com
 
 ---
 
